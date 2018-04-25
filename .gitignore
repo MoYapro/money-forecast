@@ -99,3 +99,4 @@ node/
 
 # IntelliJ
 /out/
+/package-lock.json
